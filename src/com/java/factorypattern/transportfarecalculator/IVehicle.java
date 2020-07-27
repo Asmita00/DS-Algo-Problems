@@ -1,4 +1,4 @@
-package com.java.assignments.dayone;
+package com.java.factorypattern.transportfarecalculator;
 
 public interface IVehicle {
 	

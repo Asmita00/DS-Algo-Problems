@@ -1,11 +1,11 @@
-package com.asmita.javahit;
+package com.comparator.studentComparator;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class UniqueString {
+public class TestComparatorMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

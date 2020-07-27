@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Program {
+	
 	public static List<Integer> rightSmallerThan(List<Integer> array) {
 		// Write your code here.
 		// {"array": [8, 5, 11, -1, 3, 4, 2]}

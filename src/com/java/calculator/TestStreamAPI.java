@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import com.java.assignments.dayone.Metro;
+import com.java.factorypattern.transportfarecalculator.Metro;
 
 
 public class TestStreamAPI {

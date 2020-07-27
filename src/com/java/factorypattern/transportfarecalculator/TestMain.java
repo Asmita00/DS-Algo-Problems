@@ -1,6 +1,6 @@
-package com.java.assignments.dayone;
+package com.java.factorypattern.transportfarecalculator;
 
-import com.java.assignments.dayone.VehicleManager.TRANSPORTMODE;
+import com.java.factorypattern.transportfarecalculator.VehicleManager.TRANSPORTMODE;
 
 public class TestMain {
 

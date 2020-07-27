@@ -1,4 +1,4 @@
-package com.java.assignments.dayone;
+package com.java.factorypattern.transportfarecalculator;
 
 import java.util.ArrayList;
 import java.util.List;

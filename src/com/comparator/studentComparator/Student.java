@@ -1,4 +1,4 @@
-package com.asmita.javahit;
+package com.comparator.studentComparator;
 
 public class Student implements Comparable<Student> {
 	

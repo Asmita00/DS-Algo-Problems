@@ -1,4 +1,4 @@
-package com.java.algoexpert.veryhard.rightSmallerthan;
+package com.java.algoexpert.extremelyhard;
 
 import java.util.ArrayList;
 import java.util.List;
